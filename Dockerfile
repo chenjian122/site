@@ -1,4 +1,4 @@
-FROM docker.io/tomcat:7.0.75
+FROM docker.io/jenkins-docker
 
 MAINTAINER chenjian
 
