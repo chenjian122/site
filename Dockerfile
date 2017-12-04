@@ -1,4 +1,4 @@
-FROM docker.io/jenkins-docker
+FROM jenkins-docker
 
 MAINTAINER chenjian
 
