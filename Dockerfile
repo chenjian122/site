@@ -1,4 +1,4 @@
-FROM jenkins-docker
+FROM e36291f93bed
 
 MAINTAINER chenjian
 
